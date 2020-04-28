@@ -8,7 +8,7 @@
 - Cost: Free
 - Link: https://learn.newrelic.com/series/fundamentals
 - Resources Used:  My work New Relic account(s) and that’s really it.  I did onboard a node script to APM, but for this I just needed an app/api style key. 
-- Time Commitment: About 10 hours estimated, although I didn’t measure it. 
+- Time Commitment: About 10-12 hours estimated over a 7 day period, although I didn’t really measure it. 
 - Level of Difficulty: Low if you are an IT pro,  probably still low-ish if you’re not, but you won’t get as much from the exercise.  
 
 **Program Format:**  There are 3 short tests you have to pass each with one or two associated learning modules:  New Relic Fundamentals, APM and Insights fundamentals, and Alerting fundamentals --- If you are new to New Relic like I was then you’ll get the most out of the first part.  
