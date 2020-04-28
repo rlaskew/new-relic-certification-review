@@ -17,7 +17,7 @@
 
 **Summary:**  This is a great free time-boxed intro to New Relic generally -- the learning and exam(s) give you a great overview of components of the software offered by New relic. If you’ve got experience with other platforms then the easiest way to ramp up with New Relic is to blow through this on a Saturday.  Taking and retaking quizzes and some light follow along in New Relic was really helpful in learning, compared to just watching some videos where I might have forgotten everything already.  
 
-**Things I didn’t try:**
+**Things I did not try:**
 - Infrastructure Exam: I checked my certification track profile after I was awarded the badge and my learning progress wasn’t reset,  so I’m wondering if I completed the infrastructure exam would they award the infrastructure fundamentals badge -- from looking at credential.net there are separate badges for each which the main web page sort of hints at, even though there is not learning equivalent for the infrastructure exam 
 - New Relic 14 Day Trial (is this a thing?) -- since i used my work New Relic account, i didn’t need the trial account for learning purposes   
 
