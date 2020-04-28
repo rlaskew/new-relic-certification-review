@@ -21,12 +21,12 @@
 - Infrastructure Exam: I checked my certification track profile after I was awarded the badge and my learning progress wasn’t reset,  so I’m wondering if I completed the infrastructure exam would they award the infrastructure fundamentals badge -- from looking at credential.net there are separate badges for each which the main web page sort of hints at, even though there is not learning equivalent for the infrastructure exam 
 - New Relic 14 Day Trial (is this a thing?) -- since i used my work New Relic account, i didn’t need the trial account for learning purposes   
 
-**Minor Complaints: **
+**Minor Complaints:**
 - Some of those quizzes were long! Yikes
 - A few glitches were present -- mostly in the APM module -- in the quiz questions (multiple same answers, wrong sized images, etc)
 - I’d assume the infrastructure badge addition is a work in progress, that was just sort of added recently and made the training breadcrumbs harder to follow.
 
-You're a New Relic Certified Performance Pro!
+*You're a New Relic Certified Performance Pro!*
 
 **Badging:**  So after 5 business days of the final button press, I got an email from Accreditable/Crediental.net  saying I was a “New Relic Certified Performance Pro”  which is the title of the cert they retired in 2019 (or early 2020?)  and replaced with this new program, but the badging was right: “New Relic APM Fundamentals Certification”
 
