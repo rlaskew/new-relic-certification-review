@@ -11,7 +11,7 @@
 - Time Commitment: About 10 hours estimated, although I didn’t measure it. 
 - Level of Difficulty: Low if you are an IT pro,  probably still low-ish if you’re not, but you won’t get as much from the exercise.  
 
-**Training Format:**  There are 3 short tests you have to pass each with one or two associated learning modules:  New Relic Fundamentals, APM and Insights fundamentals, and Alerting fundamentals --- If you are new to New Relic like I was then you’ll get the most out of the first part.  
+**Program Format:**  There are 3 short tests you have to pass each with one or two associated learning modules:  New Relic Fundamentals, APM and Insights fundamentals, and Alerting fundamentals --- If you are new to New Relic like I was then you’ll get the most out of the first part.  
 
 **Learning Format:**  The typical format is watch a 5 min video -- where you can perform similar actions if you have an account setup already and populated with data -- then take a repeatable (which they encourage!) and mostly multiple choice quiz.  This repeats 7-10 times per module.
 
